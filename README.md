@@ -19,4 +19,4 @@ This is an interactive educational website about biofuels.
 - `script.js` – interactivity
 
 ## 👩‍🔬 Created by
-Badria M. Abdullah
+Badria AL Sinani
